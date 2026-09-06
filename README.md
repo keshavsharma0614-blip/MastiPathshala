@@ -277,12 +277,6 @@ Contributions, ideas, and suggestions are welcome.
 
 ---
 
-# 📄 License
-
-MIT License
-
----
-
 # 🌟 Final Product Statement
 
 > “A magical learning universe where children learn, explore, create, and grow through adaptive experiences powered by AI, creativity, and play.”
